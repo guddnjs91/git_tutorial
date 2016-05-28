@@ -1,3 +1,5 @@
 Let's leran Git
 
 Add changed file to index
+
+Commit saves the state of index
