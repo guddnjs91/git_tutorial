@@ -3,3 +3,4 @@ Let's leran Git
 Add changed file to index
 
 Pull draws the content from remote repository
+Commit saves the state of index
